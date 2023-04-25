@@ -1,0 +1,11 @@
+__pycache__/
+kuka_model/__pycache__/
+kuka_demos/plot/
+Solo_experiment/__pycache__/
+Solo_experiment/data/
+Solo_experiment/*.mp4
+Solo_experiment/plot/
+quadrotor_demos/plot/
+quadrotor_model/__pycache__/
+filters/__pycache__/
+
